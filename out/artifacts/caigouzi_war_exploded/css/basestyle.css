@@ -1,0 +1,41 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.login_h2{
+    min-height: 10%;
+}
+
+.login_form{
+    /*margin: 10px;*/
+}
+
+.login_back{
+    background: url('../image/logbck.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    /*background-size:40% 100%;*/
+}
+
+html, body{
+    height: 100%;
+    /*text-align: center;*/
+}
+
+.warp{
+    min-height: 100%;
+}
+.foot{
+    height: 50px;
+    margin: -50px auto 0;
+    text-align: center;
+}
+.noneinput {
+
+    text-align: center;
+    border-left: none;
+    width: 99%;
+    height: 99%;
+    background-color: rgba(246, 246, 246, 0);
+}

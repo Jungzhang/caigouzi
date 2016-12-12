@@ -1,0 +1,139 @@
+     body{
+	 padding:0px;
+     margin:0px;
+     font-size:12px;
+     color:#000;
+	 font-family: Arial, Helvetica, sans-serif;
+	 }
+	#ht_top{
+	width:100%;
+	height:103px;
+	text-align:left;
+	background:url(../images/httopbg.jpg) repeat-x;
+	}
+	.htExit{
+	width:58px;
+	height:28px;
+	background:url(../images/exit.jpg) no-repeat;
+	border:0px;
+	}
+	#ht_top2{
+	width:100%;
+	height:41px;
+	text-align:left;
+	background:url(../images/ht03.gif) repeat-x;
+	}
+	#htleft{
+	width:200px;
+	text-align:center;
+	}
+	#htleft02{
+	width:200px;
+	line-height:29px;
+	color:#fff;
+	text-align:center;
+	background:url(../images/ht02.gif) repeat-x;
+	}
+	#htleft02 a{
+	width:200px;
+	line-height:29px;
+	color:#fff;
+	text-align:center;
+	}
+    .htleftbg{
+	width:200px;
+	line-height:26px;
+	color:#000;
+	text-align:left;
+	}
+	.htleftbg ul{
+	width:200px;
+	line-height:26px;
+	color:#000;
+	text-align:left;
+	}
+	.htleftbg li{
+	width:200px;
+	line-height:26px;
+	color:#000;
+	text-align:left;
+	padding-left:40px;
+	background:url(../images/ht05.gif)  no-repeat ;
+	}
+	.htleftbg a{
+	width:200px;
+	line-height:26px;
+	color:#000;
+	}
+	#htdlbg{
+	margin-left:200px;
+	margin-top:100px;
+	width:740px;
+	height:398px;
+	background:url(../images/htdlbj.jpg) no-repeat;
+	}
+	#httab{
+	width:400px;
+	height:200px;
+	margin:100px 0px 0px 247px;
+	}
+	.STYLE1 {font-size: 12px}
+    .STYLE4 {
+	font-size: 12px;
+	color: #1F4A65;
+	font-weight: bold;
+     }
+
+    a:link {
+	font-size: 12px;
+	color: #06482a;
+	text-decoration: none;
+     }
+     a:visited {
+	font-size: 12px;
+	color: #06482a;
+	text-decoration: none;
+    }
+    a:hover {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+    }
+    a:active {
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+    }
+    
+    .bt_01{
+    width:71px;
+	height:25px;
+	border:0px;
+    background: url(../resources/images/htdl.gif) no-repeat;
+	color:#fff;
+	font-size:12px;
+	}
+	.bt_02{
+    width:60px;
+	height:25px;
+	border:0px;
+    background:#0099CC;
+	color:#fff;
+	font-size:12px;
+	}
+	.bt_03{
+    width:200px;
+	height:25px;
+	}	
+	
+	.dz{
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0a78a9;
+	}
+	
+	.my{
+	font-size:12px;
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	}
